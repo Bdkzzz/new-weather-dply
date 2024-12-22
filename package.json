@@ -1,0 +1,24 @@
+{
+  "name": "new-weather-dply",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bdkzzz/new-weather-dply.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bdkzzz/new-weather-dply/issues"
+  },
+  "homepage": "https://github.com/Bdkzzz/new-weather-dply#readme",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
